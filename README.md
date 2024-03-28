@@ -3,4 +3,5 @@ This app fetches city,state etc data from REST APIs and it can also populate dat
 
 # Screenshot
 
-![geo-fd](https://github.com/SankettPatel/Geolocation-FD/assets/48343143/b49eef3e-3d9f-44c2-8462-518dc93fb4c9)
+![geo-fd](https://github.com/SankettPatel/Geolocation-FD/assets/48343143/2c0d5f82-1c8f-4503-86c4-f137d5c5db5f)
+

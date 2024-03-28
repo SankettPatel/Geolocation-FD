@@ -1,6 +1,6 @@
-# Freshdesk Tickets Creation
-This app autopopulates the current ticket data and creates ticket to respective freshdesk account once ticket.save function triggers.
-It will check for a specific tag, if the tag is present then it will skip the ticket creation process and will update the status and priority of the future zendesk events in same ticket.
+# Freshdesk Geolocation App
+This app fetches city,state etc data from REST APIs and it can also populate data into custom fields to use in ticket activities.
 
 # Screenshot
-![FD-tc](https://github.com/SankettPatel/CRM-to-CRM-ticket-creation/assets/48343143/686a9f84-322d-4196-9d62-0afabc6de255)
+
+![geo-fd](https://github.com/SankettPatel/Geolocation-FD/assets/48343143/b49eef3e-3d9f-44c2-8462-518dc93fb4c9)
